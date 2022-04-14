@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    background-color: gold;
+}
+
+h1 {
+    font-size: 100px;
+    color: purple;
+    text-align: center;
+}
+
+
