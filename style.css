@@ -13,3 +13,8 @@ h2 {
     color: red;
 }
 
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
